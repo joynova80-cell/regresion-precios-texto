@@ -1,0 +1,6 @@
+{
+  "modelo": "Ridge",
+  "rmsle": 0.5028,
+  "rmsle_baseline": 0.7424,
+  "segundos_entrenamiento": 0.9
+}
